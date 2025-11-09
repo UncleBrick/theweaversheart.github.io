@@ -12,7 +12,7 @@ GitHub Pages mirror: https://unclebrick.github.io/theweaversheart
 
 ⚙️ Technical
 Hosted with GitHub Pages
-Designed and maintained by Richard Tester (UncleBrick)
+Designed and maintained by Richard "UncleBrick" Tester
 
-© 2025 Richard Tester (UncleBrick). All rights reserved.
+© 2025 Richard "UncleBrick" Tester. All rights reserved.
 Unauthorized use, reproduction, or distribution of this material is prohibited.
