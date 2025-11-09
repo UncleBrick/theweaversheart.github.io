@@ -6,14 +6,12 @@ The site is built and hosted through GitHub Pages, serving as the home for story
 
 🌍 Links
 
-Main site: http://theweaversheart.com
+Main site: https://theweaversheart.com/theweaversheart
 
-GitHub Pages mirror: http://theweaversheart.github.io
+GitHub Pages mirror: https://unclebrick.github.io/theweaversheart
 
 ⚙️ Technical
-
 Hosted with GitHub Pages
-
 Designed and maintained by Richard Tester (UncleBrick)
 
 © 2025 Richard Tester (UncleBrick). All rights reserved.
