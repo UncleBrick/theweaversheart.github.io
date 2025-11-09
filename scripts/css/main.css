@@ -1,9 +1,14 @@
 :root {
+  --bg-top: #000000;
+  --bg-bottom: #1c3a2a; /* deep green */
+  --text-main: #e0e0e0; /* light grey for text */
+}
+
 .logo-full img,
 .logo-heart {
-display: block;
-max-width: 90vw;
-height: auto;
+  display: block;
+  max-width: 90vw;
+  height: auto;
 }
 
 
