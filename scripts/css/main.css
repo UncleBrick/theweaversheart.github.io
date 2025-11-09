@@ -88,7 +88,7 @@ body {
 /* Desktop */
 @media (min-width: 1200px) {
   .logo-full img {
-    max-width: 480px;
+    max-width: 1600px;
   }
 
   .status {
