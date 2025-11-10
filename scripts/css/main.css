@@ -78,7 +78,7 @@ body {
 /* Tablet tweaks */
 @media (min-width: 768px) and (max-width: 844px) {
   .logo-full img {
-    max-width: 60vw;
+    max-width: 40vw;
   }
 
   .status {
